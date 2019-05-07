@@ -1,0 +1,28 @@
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.exe.config
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.exe
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.pdb
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form1.resources
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Properties.Resources.resources
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.exe
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.pdb
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form2.resources
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form3.resources
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form4.resources
+C:\Users\Jose\source\repos\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form5.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.exe.config
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.exe
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\bin\Debug\bookAdvantage.pdb
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form1.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form2.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form3.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form4.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Form5.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.Properties.Resources.resources
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.exe
+C:\Users\Jose\Desktop\project backup\bookAdvantage\bookAdvantage\obj\Debug\bookAdvantage.pdb
